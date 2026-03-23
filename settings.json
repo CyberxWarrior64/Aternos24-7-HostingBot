@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "battlestarmc.aternos.me",
-    "port": 35570,
+    "ip": "frostpeak.aternos.me",
+    "port": 12595,
     "version": "",
     "try-creative": false
   },
